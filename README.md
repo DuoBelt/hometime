@@ -1,2 +1,2 @@
 # hometime
-Zabawy z Git
+ z Git
